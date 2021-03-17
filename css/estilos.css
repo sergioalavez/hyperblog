@@ -7,6 +7,13 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+	Cabecera incluida por SERGIO en la rama CABECERA
+
+}
+
 #container
 {
     width: 70%;
